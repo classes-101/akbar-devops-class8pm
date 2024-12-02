@@ -1,9 +1,3 @@
-<<<<<<< Updated upstream
 hhhhh
 ttttttttttttttt
 ytyyyyyyyyyyyyyyyy
-=======
-hhhhh
-ttttttttttttttt
-ytyyyyyyyyyyyyyyyy
->>>>>>> Stashed changes
